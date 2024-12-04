@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Shyam Kalariya</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Shyam+Kalariya;AI+%26+ML+Enthusiast;A+passionate+Backend+developer+from+India&font=Fira%20Code&center=true&width=380&height=50">
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vihar4104&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+<!-- <h1 align="center">Hi 👋, I'm Shyam Kalariya</h1>
+<h3 align="center">A passionate Backend developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam1604&label=Profile%20views&color=0e75b6&style=flat" alt="shyam1604" /> </p>
 
